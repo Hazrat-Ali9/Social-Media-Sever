@@ -1,4 +1,4 @@
-
+// Pins Router
 const express = require('express');
 const router = express.Router();
 const Pins = require('../Model/User')
