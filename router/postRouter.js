@@ -1,4 +1,4 @@
-
+// Post Router
 const express = require('express');
 const router = express.Router();
 const Posts = require('../Model/Posts');
