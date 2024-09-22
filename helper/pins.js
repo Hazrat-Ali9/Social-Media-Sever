@@ -1,4 +1,4 @@
-
+// Help Pins
 const User = require('../Model/User')
 
 const addPin = async (email, data) => {
